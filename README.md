@@ -1,1 +1,4 @@
 # ClojureURLShortener
+
+leiningen
+awscli2
